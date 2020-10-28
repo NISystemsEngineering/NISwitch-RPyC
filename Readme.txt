@@ -1,4 +1,4 @@
-This example demonstrates how to use the NISwitch driver over an RPyC connection. The same method could be used to implement any MI or NI driver with native Python suppport.
+This example demonstrates how to use the NISwitch driver over an RPyC connection. The same method could be used to implement any MI driver with native Python suppport.
 
 For drivers that do not have native Python support, an alternative method can be used that imports the .NET library in the link below. 
 
